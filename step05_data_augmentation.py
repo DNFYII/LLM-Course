@@ -15,7 +15,7 @@ if os.path.exists("/kaggle/input"):
     OUTPUT_PATH = "/kaggle/working/synthetic_data_5k.json"
     DEVICE = "cuda"
 else:
-    # 本地配置 (请确保你本地有 data 文件夹)
+    # 本地配置
     DATA_PATH = "./data/control_knowledge_base"
     OUTPUT_PATH = "./data/synthetic_data_5k.json"
     DEVICE = "cpu"  # 本地环境驱动未稳，强制使用 CPU 避免报错
