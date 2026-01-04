@@ -54,13 +54,13 @@
 
 ![content](./images/content.png)
 
-> ![content0](D:/workerspace/control_qa/reports/images/content0.png)
+> ![content0](./images/content0.png)
 
 ### 2. Web 端问答效果
 
 系统能够使用Latex格式清晰显示公式：
 
-> ![formula](D:/workerspace/control_qa/reports/images/formula.png)
+> ![formula](./images/formula.png)
 
 ### 3. 量化评估报告
 
